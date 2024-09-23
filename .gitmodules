@@ -1,0 +1,3 @@
+[submodule "Libraries/miniframework"]
+	path = Libraries/miniframework
+	url = https://github.com/cozycapybaragames/kha-miniframework
